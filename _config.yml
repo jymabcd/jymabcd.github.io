@@ -18,9 +18,9 @@ cusdis:
 
 user:
   name: 冀有名
-  pic: /assets/img/profile.jpg
-  picAlt: "An Exhibition of A Hunger Artist"
-  job: Muss es sein? Es muss sein!
+  pic: /assets/img/me.jpg
+  picAlt: "冀有名头像"
+  job: 学生
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
