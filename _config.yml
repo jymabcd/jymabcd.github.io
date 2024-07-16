@@ -17,10 +17,10 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: 冀有名
+  name: 张洪刚（Honggang Zhang）
   pic: /assets/img/me.jpg
   picAlt: "冀有名头像"
-  job: 学生
+  job: 模式识别实验室-人工智能学院-北京邮电大学
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
